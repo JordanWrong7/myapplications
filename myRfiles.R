@@ -7,3 +7,4 @@ pos$remove("{}")
 data = data.frame(x = rnorm(5), y = rep(Sys.time(),5))
 
 pos$insert(data)
+print("thanks")
